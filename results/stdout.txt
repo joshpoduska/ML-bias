@@ -1,0 +1,12 @@
+[I 20:48:11.828 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 20:48:12.035 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 20:48:12.651 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.6/site-packages/jupyterlab
+[I 20:48:12.651 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 20:48:12.893 LabApp] Serving notebooks from local directory: /
+[I 20:48:12.893 LabApp] The Jupyter Notebook is running at:
+[I 20:48:12.893 LabApp] http://run-627d7275cfe6920ea05e598a-5psfx:8888/joshpoduska/domino-reference-project-bias/notebookSession/627d7275cfe6920ea05e598a/
+[I 20:48:12.893 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:48:12.900 LabApp] 302 GET /joshpoduska/domino-reference-project-bias/notebookSession/627d7275cfe6920ea05e598a/ (10.0.60.224) 0.78ms
+[I 20:48:13.204 LabApp] 302 GET /joshpoduska/domino-reference-project-bias/notebookSession/627d7275cfe6920ea05e598a/ (10.0.60.224) 0.50ms
+[I 20:48:13.517 LabApp] 302 GET /joshpoduska/domino-reference-project-bias/notebookSession/627d7275cfe6920ea05e598a/ (10.0.60.224) 0.51ms
+[I 20:48:17.834 LabApp] Build is up to date
