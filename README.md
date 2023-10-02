@@ -1,1 +1,1 @@
-# A survey of bias and fariness techniques
+# A survey of bias and fairness techniques
