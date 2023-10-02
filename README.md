@@ -1,1 +1,1 @@
-# domino-reference-project-bias
+# A survey of bias and fariness techniques
